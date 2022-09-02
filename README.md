@@ -1,6 +1,6 @@
 # Teste-Areco
-Agenda de Tarefas c# /
-Feito no visual studio no modelo de projeto 'app de console(.NET Framework)'. /
+Agenda de Tarefas c# 
+
 Entre na pasta Hello Word, no arquivo Programa.cs está o código que escrevi. / 
 Ao rodar o código irá abrir uma interface, logo de cara voce deverá preencher a seguinte informação com um valor inteiro  "Numero de Tarefas: ". /
 O valor respondido aqui resultará no tanto de vezes que o questionario referente a agenda irá se passar, influênciando também na lógica e no resultado final. /
