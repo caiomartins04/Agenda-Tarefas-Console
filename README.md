@@ -1,5 +1,5 @@
-# Teste-Areco
-Agenda de Tarefas c# 
+
+Agenda de Tarefas c#  console
 
 Entre na pasta Hello Word, no arquivo Programa.cs está o código que escrevi. / 
 Ao rodar o código irá abrir uma interface, logo de cara voce deverá preencher a seguinte informação com um valor inteiro  "Numero de Tarefas: ". /
